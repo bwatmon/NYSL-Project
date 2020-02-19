@@ -1,0 +1,155 @@
+body {
+    margin: 1%;
+    border-right: cadetblue 10px solid;
+    border-left: cadetblue 10px solid;
+    border-bottom: cadetblue 10px solid;
+
+}
+.head {
+    
+    background-image: url(Asset/nysl_background.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-size: cover;
+    color: hsl(0, 0%, 100%);
+    font-size: xx-large;
+    text-shadow: -1px 0 black, 0 2px black, 2px 0 black, 0 -1px black;
+    padding: 25px 15px;   
+}
+.logo-img {
+    position: relative;
+    float: right;
+    bottom: 210px;
+}
+.about-us{
+    background-color:rgba(6, 218, 51, 0.63);;
+    top: 20px;
+    height: 77vh;
+    color: rgb(3, 57, 73);
+}
+
+#nav {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.nav1 {
+    font-size: 20px;
+    padding-right: 20px;
+}
+.nav2 {
+    font-size: 20px;
+    padding-right: 20px;
+}
+.nav3 {
+    font-size: 20px;
+}
+h3 {
+    text-align: center;
+    font-size: x-large;
+    border: 2px transparent solid;
+    background-color: wheat;
+}
+#bottomHome{
+    
+    display: block;
+ }
+.mission {
+    position: relative;
+    width: 45%;
+  text-align: justify;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+    display: block;
+}
+.vision {
+    position: relative;
+    width: 45%;
+    text-align: justify;
+    bottom: 175px;
+    height: 26vh;
+    margin-left: 650px;
+    padding-left: 15px;
+    padding-right: 10px;
+    display: block;
+}
+.info {
+    position: relative;
+    width: 95%;
+    text-align: justify;
+    bottom: 210px;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+.connect {
+    position: relative;
+    bottom: 190px;
+    padding-left: 25px;
+    line-height: 17px;
+}
+
+.connectHome {
+    position: relative;
+    bottom: 500px;
+    padding-left: 25px;
+}
+.connectContact {
+    position: relative;
+    bottom: 30px;
+    padding-left: 25px;
+}
+div h2 {
+    text-align: center;
+    color: rgb(3, 57, 73);
+    text-decoration: underline;
+}
+.gallery {
+    position: relative;
+    bottom: 60px;
+    left: 20px;
+}
+hr {
+    background-color:peachpuff;
+}
+.break-one {
+    height: 20px;
+}
+.break-two{
+    height: 5px;
+    position: relative;
+    bottom: 70px;
+}
+div h3 {
+    position: relative;
+}
+.activity-one {
+padding-left: 25px;
+}
+.activity-two {
+position: relative;
+display: block;
+left: 480px;
+bottom: 250px;
+
+}
+
+.activity-three {
+position: relative;
+display: block;
+left: 880px;
+bottom: 528px;
+}
+.break-home {
+    height: 5px;
+    position: relative;
+    bottom: 240px;
+}
+h4{
+    text-decoration: underline;
+    
+}
+.break-contact {
+    height: 5px;
+    position: relative;
+    bottom: 30px;
